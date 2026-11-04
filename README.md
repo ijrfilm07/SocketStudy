@@ -102,7 +102,8 @@ print (s.recv(1024).decode())
 s.close()
 ~~~
 ## Output:
-<img width="1112" height="330" alt="image" src="https://github.com/user-attachments/assets/5d0390da-a06c-4eaa-b9dd-4a3c016dcec1" />
+<img width="1917" height="1010" alt="Screenshot 2026-10-27 141715" src="https://github.com/user-attachments/assets/19eb2dba-f1f2-450c-b3f8-a48dafc7738f" />
+
 
 
 ## Result:
